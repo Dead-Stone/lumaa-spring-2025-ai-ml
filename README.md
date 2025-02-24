@@ -100,3 +100,5 @@ Launch the interactive app:
    streamlit run movie_app.py
    ```
 This app provides an interactive UI for entering queries and viewing recommendations.
+
+## Demo is present in root folder as ```bash demo.mp4 ``` 
