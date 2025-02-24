@@ -101,4 +101,4 @@ Launch the interactive app:
    ```
 This app provides an interactive UI for entering queries and viewing recommendations.
 
-## Demo is present in root folder as ```bash demo.mp4 ``` 
+## Demo is present in root folder as ```demo.mp4 ``` 
